@@ -24,5 +24,9 @@
 
 ## 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,sql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
