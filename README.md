@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukrit Jain</h1>
 <h3 align="center">Data Analytics & Business Intelligence | Computer Science Undergraduate</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sukrit-jain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sukritj07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -23,10 +14,6 @@
 ---
 
 ## 🛠️ Tech Stack & Capabilities
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,cpp,c,git,github,linux" alt="Tech Stack" />
-</p>
 
 * **Analytics & Business Intelligence:** Power BI, DAX, Power Query, Exploratory Data Analysis (EDA), Data Cleaning & Visualization
 * **Python Ecosystem:** Pandas, NumPy, Matplotlib, Seaborn
@@ -50,7 +37,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sukrit-jain" target="_blank">
+  <a href="https://www.linkedin.com/in/sukrit-jain-525434380/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:sukritj07@gmail.com">
